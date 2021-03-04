@@ -1,0 +1,5 @@
+f1=input("enter the file name")
+f1=open("f1","r")
+line=f1.read()
+line=f1("line",line)
+f1.close()
